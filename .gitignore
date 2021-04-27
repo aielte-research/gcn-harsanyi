@@ -1,1 +1,6 @@
 model.cpython-38.pyc
+image_classification/data
+image_classification/.ipynb_checkpoints
+image_classification/data/MNIST/raw/t10k-images-idx3-ubyte
+proteins/data/PROTEINS/
+proteins/.ipynb_checkpoints/Proteins-checkpoint.ipynb
